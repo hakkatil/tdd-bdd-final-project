@@ -8,11 +8,11 @@ This repository is to be used as a template to create your own repository in you
 
 From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template. 
 
-Name your repo: `tdd-bdd-final-project`.
+Name your repo: `tdd-bdd-final-project`.   
 
 ## Setup
 
-After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
+After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software. Test
 
 ```bash
 bash bin/setup.sh
